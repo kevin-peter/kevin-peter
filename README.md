@@ -53,9 +53,7 @@
 
 ### 🚀 Featured Projects
 
-- [Project 1](https://github.com/kevin-peter/project1) – A powerful tool for automating workflows.  
-- [Project 2](https://github.com/kevin-peter/project2) – An innovative web app to visualize data interactively.  
-- [Project 3](https://github.com/kevin-peter/project3) – Open-source library for easier API integrations.
+- [betday](https://new.betday.pro/) – A funny skill gaming Plateform.  
 
 *(Replace with your actual projects and links for best effect!)*
 
