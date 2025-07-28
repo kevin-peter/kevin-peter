@@ -55,7 +55,6 @@
 
 - [gaming](https://new.betday.pro/) – A funny skill gaming Plateform.  
 
-*(Replace with your actual projects and links for best effect!)*
 
 ---
 
