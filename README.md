@@ -53,7 +53,7 @@
 
 ### 🚀 Featured Projects
 
-- [betday](https://new.betday.pro/) – A funny skill gaming Plateform.  
+- [gaming](https://new.betday.pro/) – A funny skill gaming Plateform.  
 
 *(Replace with your actual projects and links for best effect!)*
 
