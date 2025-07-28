@@ -22,7 +22,7 @@
 - 🧠 Passionate about learning new technologies and solving real-world problems with code.
 - 🤝 Open to collaborations and innovative project ideas.
 - 💬 Ask me about anything related to **Python, JavaScript, React, Node.js, Docker, and more!**
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: me.kevin@protonmail.com
 
 ---
 
@@ -63,8 +63,8 @@
 
 ### 🌐 Connect with me
 
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
+- [LinkedIn](https://linkedin.com/in/kevin-peter)
+- [Twitter](https://twitter.com/kevin-peter)
 
 ---
 
